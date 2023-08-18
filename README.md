@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <br />
 
 ## 📫 How to reach me:   
+<p>
   <a href="[https://www.facebook.com/01.tien](https://www.facebook.com/DuongDeepTryy.Info)" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
   <a href="mailto:duongxummo@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+</p>
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
