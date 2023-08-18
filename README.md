@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Dinh Duong</h1>
-- 🔭 I’m currently learning on Open University
-- 🌱 I’m currently learning Information Technology
-- 👯 A passionate developer from Vietnam 🇻🇳 
+- 🔭 I’m currently learning on Open University <br />
+- 🌱 I’m currently learning Information Technology <br />
+- 👯 A passionate developer from Vietnam 🇻🇳 <br />
 <br />
 <br />
 <br />
