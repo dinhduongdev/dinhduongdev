@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Dinh Duong</h1>
+- 🔭 I’m currently working on Open University
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
@@ -36,15 +39,9 @@ Here are some ideas to get you started:
   <a href="mailto:duongxummo@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  <a href="zaloto:0347163896" alt="Zalo">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
 </p>
 
-## Skills:
-
-
-## Activities:
-
-
-
-# Certificates:
-
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<img  width="100%" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
