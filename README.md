@@ -39,9 +39,6 @@ Here are some ideas to get you started:
   <a href="mailto:duongxummo@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-  <a href="zaloto:0347163896" alt="Zalo">
-        <img src="https://icons8.com/icon/0m71tmRjlxEe/zalo"/>
-  </a>
 </p>
 
 <img  width="100%" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
