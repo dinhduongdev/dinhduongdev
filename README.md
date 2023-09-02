@@ -25,49 +25,22 @@ Here are some ideas to get you started:
 <br />
 
 # About me
- 
 <p>
  <img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif" alt="Coding gif" />
-  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
-
+ 📧 &emsp; Reach me anytime: duongxummo@gmail.com<br/><br/>
 </p>
 
 <br/>
 <br/>
 <br/>
 
-
-
-
-<img  width="100%" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
-</p>
-
----
-<p align="center">
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://html.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  </a>
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" alt="AWS">
-  </a>
-</p>
+## Use To Code
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
