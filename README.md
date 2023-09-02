@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dinhduongdev/BigProject)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=dinhduongdev&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dinhduongdev/BigProject)
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <hr/>
 <br/>
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/dinhduongdev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhduongdev&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
