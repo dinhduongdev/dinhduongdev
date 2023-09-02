@@ -1,10 +1,7 @@
-<h1 align="center" style="color: #7F3FBF;">Hi 👋, I'm Dinh Duong</h1>
+<h1 align="center" style="color: #7F3FBF;">Hi👋, I'm Dinh Duong</h1>
 - 🌱 I’m currently learning Information Technology <br />
 - 👯 A passionate developer from Vietnam 🇻🇳 <br />
 <br />
-<br />
-<br />
-
 ## About me
 <p>
  <img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif" alt="Coding gif" />
