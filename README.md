@@ -1,5 +1,5 @@
 
-<h1 align="center" color="#7F3FBF">Hi 👋, I'm Dinh Duong</h1>
+<h1 align="center" style="color="#7F3FBF" ">Hi 👋, I'm Dinh Duong</h1>
 - 🌱 I’m currently learning Information Technology <br />
 - 👯 A passionate developer from Vietnam 🇻🇳 <br />
 <br />
